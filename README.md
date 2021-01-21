@@ -1,3 +1,3 @@
 # md
 
-[link to md](md)
+[link to md](#md)
